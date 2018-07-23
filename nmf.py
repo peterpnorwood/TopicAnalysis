@@ -45,7 +45,7 @@ stop = ["ourselves", "hers", "between", "yourself", "but", "again", "there", "ab
         "com", "www", "http", "https", "ve","pgp","signed", "redhat"]
 
 
-## Thanks to Aneesh Bakha for providing these next to functions
+## Thanks to Aneesh Bakha for providing these next two functions
 ## found at https://towardsdatascience.com/improving-the-interpretation-of-topic-models-87fd2ee3847d
 
 ## Function to remove stop words and punctuation
